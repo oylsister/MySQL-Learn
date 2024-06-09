@@ -1,7 +1,7 @@
 -- LESSON 4 SELECT
 
 -- SELECT all data from table
--- SELECT * FROM players_data;players_dataplayers_data
+-- SELECT * FROM players_data;
 
 -- SYNTAX SELECT [data] FROM {table_name} WHERE {csteam_autholumn_name} = {data_value};
 -- Select FROM which table and then you can add WHERE specific data is.
